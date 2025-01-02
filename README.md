@@ -5,7 +5,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Josue Herrera</h1></summary>
+    <summary><h1 style="display: inline-block">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Josue Herrera</h1></summary>
   </ul>
 </div>
 
