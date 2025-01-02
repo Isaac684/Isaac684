@@ -19,7 +19,7 @@
 - :school: I am a `Estudent` at [Facultad Multidisciplinaria Oriental (Universidad de El Salvador)](http://secretariageneral.ues.edu.sv/index.php?option=com_content&view=article&id=82&Itemid=124) in [Ingeniería de Sistemas Informáticos](http://secretariageneral.ues.edu.sv/index.php?option=com_content&view=article&id=60&Itemid=94)
 - :technologist: **Currently working on** `Frontend Development` **but sometimes work in** `Backend Development`
 - :boom: You can visit [MY WEBSITE](https://Isaac684.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Isaac684&amp;color=EA4335&amp;style=flat-square)](mailto:josueisaac684@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Isaac684&amp;color=EA4335&amp;style=flat-square)](mailto:josueisaac684@gmail.com) <a href="https://www.instagram.com/aizaac_01/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"></a> <a href="https://discord.com/users/639620122876575749"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white"></a>
 - :nerd_face: I always say: `"In the end, everything will be fine and if it's not right, it's because it's not the end yet"`
 
 <br>
@@ -51,7 +51,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 [![Docker](https://img.shields.io/badge/docker%20-%23F05033.svg?&style=flat-square&logo=docker&logoColor=white&labelColor=101010)](#)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
@@ -59,6 +58,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
