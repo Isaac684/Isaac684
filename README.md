@@ -18,7 +18,7 @@
 
 - :school: I am a `Estudent` at [Facultad Multidisciplinaria Oriental (Universidad de El Salvador)](http://secretariageneral.ues.edu.sv/index.php?option=com_content&view=article&id=82&Itemid=124) in [Ingeniería de Sistemas Informáticos](http://secretariageneral.ues.edu.sv/index.php?option=com_content&view=article&id=60&Itemid=94)
 - :technologist: **Currently working on** `Frontend Development` **but sometimes work in** `Backend Development`
-- :boom: You can visit [MY WEBSITE](https://Isaac684.github.io) for some frontend knowledge
+<!--- :boom: You can visit [MY WEBSITE](https://Isaac684.github.io) for some frontend knowledge-->
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Isaac684&amp;color=EA4335&amp;style=flat-square)](mailto:josueisaac684@gmail.com)
 - :nerd_face: I always say: `"In the end, everything will be fine and if it's not right, it's because it's not the end yet"`
 
