@@ -124,7 +124,7 @@
 
 [![Isaac684 gráfico de actividad de Github](https://github-readme-activity-graph.vercel.app/graph?username=Isaac684&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/Isaac684/github-readme-activity-graph)
 [![](https://visitcount.itsvg.in/api?id=Isaac684&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Isaac684&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 </div>
 
 <!--horizontal divider(gradiant)-->
