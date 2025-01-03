@@ -18,7 +18,7 @@
 
 - :school: Soy `estudiante` de la [Universidad de El Salvador (FMO)](http://secretariageneral.ues.edu.sv/index.php?option=com_content&view=article&id=82&Itemid=124) en [Ingeniería de Sistemas Informáticos.](http://secretariageneral.ues.edu.sv/index.php?option=com_content&view=article&id=60&Itemid=94)
 - :technologist: **Actualmente trabajo en** `Frontend`, **pero, también sé trabajar** `Backend.`
-- :boom: Puedes visitar [MI SITIO WEB](https://Isaac684.github.io) para que veas mi conocimiento en frontend.
+<!--- :boom: Puedes visitar [MI SITIO WEB](https://Isaac684.github.io) para que veas mi conocimiento en frontend.-->
 - :email: Contáctame con mi correo [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Isaac684&amp;color=EA4335&amp;style=flat-square)](mailto:josueisaac684@gmail.com)
 
 <br>
