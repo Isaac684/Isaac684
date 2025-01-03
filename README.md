@@ -16,10 +16,10 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: Soy `estudiante` en la [Facultad Multidisciplinaria Oriental (Universidad de El Salvador)](http://secretariageneral.ues.edu.sv/index.php?option=com_content&view=article&id=82&Itemid=124) en [Ingeniería de Sistemas Informáticos](http://secretariageneral.ues.edu.sv/index.php?option=com_content&view=article&id=60&Itemid=94)
-- :technologist: **Actualmente trabajo en** `Frontend`, **pero, tambien se trabajar** `Backend`
-- :boom: Puedes visitar [MI SITIO WEB](https://Isaac684.github.io) para que veas mi conocimiento en frontend
-- :email: contáctame a mi correo [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Isaac684&amp;color=EA4335&amp;style=flat-square)](mailto:josueisaac684@gmail.com)
+- :school: Soy `estudiante` de la [Universidad de El Salvador (FMO)](http://secretariageneral.ues.edu.sv/index.php?option=com_content&view=article&id=82&Itemid=124) en [Ingeniería de Sistemas Informáticos.](http://secretariageneral.ues.edu.sv/index.php?option=com_content&view=article&id=60&Itemid=94)
+- :technologist: **Actualmente trabajo en** `Frontend`, **pero, también sé trabajar** `Backend.`
+- :boom: Puedes visitar [MI SITIO WEB](https://Isaac684.github.io) para que veas mi conocimiento en frontend.
+- :email: Contáctame con mi correo [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Isaac684&amp;color=EA4335&amp;style=flat-square)](mailto:josueisaac684@gmail.com)
 
 <br>
 
@@ -34,7 +34,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Desarrollo Frontend
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Desarrollo frontend
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -42,7 +42,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Frameworks, Plataformas y Librerías
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Frameworks, plataformas y librerías
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=flat-square&logo=livewire&logoColor=white)
@@ -52,7 +52,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 [![Docker](https://img.shields.io/badge/docker%20-%23F05033.svg?&style=flat-square&logo=docker&logoColor=white&labelColor=101010)](#)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software y Herramientas
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software y herramientas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
@@ -70,7 +70,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Sistemas Operativos
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Sistemas operativos
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white)
@@ -80,7 +80,7 @@
 
 <br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Estadísticas de Github 
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Estadísticas de GitHub 
 
 
 <!--- stats & Trophy (start) -->
